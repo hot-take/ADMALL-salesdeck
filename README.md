@@ -57,4 +57,4 @@ The deck is built on the principle of **"Quiet Luxury"**. It avoids cluttered in
 
 ---
 
-Designed and Developed for **American Dream**.
+
