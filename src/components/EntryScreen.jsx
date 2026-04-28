@@ -1,7 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ArrowRight } from 'lucide-react';
-import ThreeIntro from './ThreeIntro';
 
 const EntryScreen = ({ onEnter }) => {
   const [isExiting, setIsExiting] = useState(false);
