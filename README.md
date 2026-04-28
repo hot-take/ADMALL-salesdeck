@@ -55,17 +55,5 @@ A high-end, cinematic interactive presentation designed for the **American Dream
 
 The deck is built on the principle of **"Quiet Luxury"**. It avoids cluttered interfaces in favor of large typography, significant negative space, and subtle micro-animations. The focus is always on the brand identity and the scale of the vision.
 
-## 📝 Design & AI Note
-
-### Design Rationale
-The deck follows a **"Quiet Luxury"** philosophy, focusing on high-end typography and a cinematic **"Light-to-Dark"** transition. We move from an ethereal, airy entry screen into a deep, midnight-themed deck to allow the brand visuals and gold accents to take center stage.
-
-### AI Integration
-- **Asset Generation**: Used DALL-E 3 to generate custom architectural and interior visuals, ensuring a consistent cinematic lighting style across all slides.
-- **Motion Prototyping**: AI assisted in crafting complex GSAP transition timelines, focusing on organic "curtain-reveal" effects.
-- **Cleanup & Audit**: Leveraged AI for iterative code audits to ensure a minimal, efficient codebase and responsive layout.
-
-### Future Improvements
-With more time, I would focus on re-integrating high-performance 3D background interactions and implementing more advanced scroll-momentum physics for a truly tactile experience.
-
 ---
+
